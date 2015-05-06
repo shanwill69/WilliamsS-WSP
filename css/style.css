@@ -24,8 +24,8 @@ h1 {
 	}
 
 #whoAmI {
-	width: 450px;
-	margin: 10px 20px 10px 20px;
+	width: 700px;
+	margin: 10px auto;
 	padding: 10px;
 	text-align: left;
 	border: 3px solid rgba(153,51,255,1);
