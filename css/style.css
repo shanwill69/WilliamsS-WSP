@@ -27,7 +27,7 @@ h2 {
     text-align: center;
     }
 
-.navList{
+.navList li{
     display: inline;
     margin-right: 20px;
     }
@@ -38,8 +38,22 @@ h2 {
 	padding: 10px;
 	text-align: left;
 	}
+	
+img.align-center {
+	margin: 0 auto;
+	}
+	
+img.medium {
+	width: 650px;
+	height: 250px;
+	}
+	
+img.large {
+	width: 650px;
+	height: 700px;
+	}
 
-.description {
+article {
     width: 750px;
     margin: 10px auto;
     }
