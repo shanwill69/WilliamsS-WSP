@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73f068dc-f265-4157-8cf5-873e485c4887" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register/register.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/acctInfo/index.html" afterPath="$PROJECT_DIR$/login/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/header/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact/index.html" afterPath="$PROJECT_DIR$/footer/footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cta/index.html" afterPath="$PROJECT_DIR$/cta/cta.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/footer/index.html" afterPath="$PROJECT_DIR$/contact/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/header/index.html" afterPath="$PROJECT_DIR$/blog/blog.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/login/index.html" afterPath="$PROJECT_DIR$/account/acctInfo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/register/index.html" afterPath="$PROJECT_DIR$/about/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="73f068dc-f265-4157-8cf5-873e485c4887" name="Default" comment="" />
     <ignored path="WilliamsS-WSP.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -219,48 +208,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="register" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WilliamsS-WSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
