@@ -32,13 +32,11 @@ h2 {
     margin-right: 20px;
     }
 
-#me {
-	width: 750px;
-	margin: 10px auto;
-	padding: 10px;
-	text-align: left;
-	}
-	
+article {
+    width: 750px;
+    margin: 10px auto;
+    }
+
 img.align-center {
 	margin: 0 auto;
 	}
@@ -52,11 +50,6 @@ img.large {
 	width: 650px;
 	height: 700px;
 	}
-
-article {
-    width: 750px;
-    margin: 10px auto;
-    }
 
 #footer {
     width: 100%;
